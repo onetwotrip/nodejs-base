@@ -1,3 +1,5 @@
+# Node 4.4.7 LTS
+
 FROM ubuntu:14.04
 
 ENV DEBIAN_FRONTEND noninteractive
